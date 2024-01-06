@@ -3,11 +3,11 @@
 I have done these below projects by using Tableau Software.
 I've made various comparisions on each dataset and also created a Dashboard.
 Various charts are used in these projects such as *Pie Chart*, *Bar Chart*, *Line Chart*, *Donut Chart*, *Heat Map*, *Bubble Chart* etc..
-* Each folder contains 
-  ##### ***Dataset(csv file)*** 
-  ##### ***Dashboard Image(png)*** 
-  ##### ***Dashboard FiLe(pdf)*** and 
-  ##### ***Tableau Workbook***
+Each folder contains 
+* ***Dataset(csv file)*** 
+* ***Dashboard Image(png)*** 
+* ***Dashboard FiLe(pdf)*** and 
+* ***Tableau Workbook***
 
 ## Data Science Jobs and Salaries (2020 to 2023) Visualization
 This Project has the detailed analysis and visualization of the Salaries in Data Science jobs around the world from 2020 to 2023
