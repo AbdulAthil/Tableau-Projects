@@ -34,7 +34,17 @@ This Project has the details and visualization of the Profit made for SuperStore
 * Category wise Profit
 * Sub-Category wise Profit
 * City wise Profit
-  
+
+## ICC WorldCup 2023 Batting Performance Analysis
+This Project has the detailed analysis and visualization of the top 10 batting performance in 2023 worldcup in various aspects for each players.
+* Runs vs Each Opponent Teams
+* Runs Scored
+* Balls Faced
+* Minutes Playes
+* Fours
+* Sixes
+* Average Strike Rate
+
 
 
 
