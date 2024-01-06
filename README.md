@@ -8,4 +8,4 @@ Various charts are used in these projects such as
 ### *Donut Chart*
 ### *Heat Map*
 ### *Bubble Chart* etc..
-Each folder contains the Dataset(csv file), Dashboard png image, Dashboard pdf file and ***Tableau Workbook***
+Each folder contains the ***Dataset(csv file)***, ***Dashboard Image(png)***, ***Dashboard FiLe(pdf)*** and ***Tableau Workbook***
