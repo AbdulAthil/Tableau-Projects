@@ -10,7 +10,7 @@ Each folder contains,
 * ***Tableau Workbook***
 
 ## Data Science Jobs and Salaries (2020 to 2023) Visualization
-This Project has the detailed analysis and visualization of the Salaries in Data Science jobs around the world from 2020 to 2023
+This Project has the detailed analysis and visualization of the Salaries in Data Science jobs around the world from 2020 to 2023.
 * Work Year wise Salary
 * Job Category wise Salary
 * Job Title wise Salary
