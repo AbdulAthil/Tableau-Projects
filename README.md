@@ -1,7 +1,7 @@
 # Tableau Projects
 
 I have done these below projects by using Tableau Software.
-I've made various comparisions on each dataset and also created a Dashboard.
+I have made various comparisions on each dataset and also created a Dashboard.
 Various charts are used in these projects such as *Pie Chart*, ***Bar Chart***, *Line Chart*, *Donut Chart*, *Heat Map*, *Bubble Chart* etc..
 Each folder contains,
 * ***Dataset(csv file)*** 
